@@ -176,7 +176,31 @@
 	- export : export your exposition as a zip of HTML files (may take
       a while).
 	- delete : delete your exposition
+
+## Research Catalogue Functions
 	
-20. 
+20. You can search for expositions through the entering your search
+    query.
+
+21. WHen you find a users name you can click on this name to ssee
+	their profile.  you can message them by clicking on "send message"
+	to that user.
+	
+22. As you are logged in and in case you have unread messages or
+invitations, you will see a section UNREAD MESSAGES in the right
+column of the RC.  You can also go to your messages by clicking on
+MESSAGES in the menu bar at the top. There, you can send a message to
+any user of the RC.
+
+23. Click SETTINGS in the top menu to
+    - reset your password
+	- change your email settings or (un)subscribe to SARA
+      announcements.
+	
+	If you want to change your email address, you will have to do that
+    through [ edit profile ]
 	  
+24. Click LOGOUT to leave the RC. 
+
+Email [support@researchcatalogue.net](mailto:support@researchcatalogue.net) for RC User Support, or check out the [extended guide](guide.researchcatalogue.net) for a full documentation of RC functionality.
 	  
