@@ -10,17 +10,16 @@
 
 2. Either login or register for an account. 
 
-   If you are student or staff at an affiliated portal partner
+   Important: if you are either a student or staff member at an affiliated portal partner
    ([list](https://societyforartisticresearch.org/about/institutional-members/),
-   you can get your account by requesting it directly at your
+   you should get your RC account by requesting it directly at your
    local portal admin.
    
-   If you are an independent researcher, you have to send in a signed
-   terms of use and proof of identity to the Research
-   Catalogue support, see:
+   If you are an independent researcher, you will have to read the instructions here: 
    <http://www.researchcatalogue.net/portal/register>
    
-   If you ever have lose your password, try <https://www.researchcatalogue.net/portal/forgotten-password>.
+   If you ever have lose your password, you can reset it using your email adres here:
+   <https://www.researchcatalogue.net/portal/forgotten-password>.
    
 
 3. After logging in, click on **my profile** and **edit profile** to
