@@ -8,17 +8,18 @@
 
 1. The Research Catalogue is at <https://www.researchcatalogue.net>
 
-2. Either login or register for an account. 
+2. Either login or register for an account. There are two types of accounts in RC, limited and full accounts. 
+   Only full accounts are enabled to publish content.
 
    Important: if you are either a student or staff member at an affiliated portal partner
    ([list](https://societyforartisticresearch.org/about/institutional-members/) ),
-   you should get your RC account by requesting it directly at your
+   you should get your full RC account by requesting it directly at your
    local portal admin.
    
-   If you are an independent researcher, you will have to read the instructions here: 
+   If you are an independent researcher, you will have to read the upgrade instructions here: 
    <http://www.researchcatalogue.net/portal/register>
    
-   If you ever have lose your password, you can reset it using your email adres here:
+   If you ever forget or loose your password, you can reset it using your email adres here:
    <https://www.researchcatalogue.net/portal/forgotten-password>.
    
 
