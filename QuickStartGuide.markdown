@@ -11,7 +11,7 @@
 2. Either login or register for an account. 
 
    Important: if you are either a student or staff member at an affiliated portal partner
-   ([list](https://societyforartisticresearch.org/about/institutional-members/),
+   ([list](https://societyforartisticresearch.org/about/institutional-members/) ),
    you should get your RC account by requesting it directly at your
    local portal admin.
    
