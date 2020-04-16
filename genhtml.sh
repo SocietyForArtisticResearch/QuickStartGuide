@@ -1,3 +1,3 @@
 #!/bin/sh
 
-pandoc -o docs/quickstart.html -c style.css -s QuickStartGuide.markdown
+pandoc -f markdown+footnotes -o docs/quickstart.html -c style.css -s QuickStartGuide.markdown

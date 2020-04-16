@@ -8,18 +8,18 @@
 
 1. The Research Catalogue is at <https://www.researchcatalogue.net>
 
-2. Either login or register for an account. There are two types of accounts in RC, limited and full accounts. 
-   Only full accounts are enabled to publish content.
+2. Either login or register for an account. There are two types of accounts in RC, *limited* and *full* accounts. 
+   Only *full* accounts are enabled to publish content.
 
    Important: if you are either a student or staff member at an affiliated portal partner
    ([list](https://societyforartisticresearch.org/about/institutional-members/) ),
-   you should get your full RC account by requesting it directly at your
+   you should get your *full* RC account by requesting it directly at your
    local portal admin.
    
-   If you are an independent researcher, you will have to read the upgrade instructions here: 
+   If you are an independent researcher, you can follow the normal registration steps here:
    <http://www.researchcatalogue.net/portal/register>
    
-   If you ever forget or loose your password, you can reset it using your email adres here:
+   Tip: if you ever forget or loose your password, you can reset it using your email adres:
    <https://www.researchcatalogue.net/portal/forgotten-password>.
    
 
@@ -29,17 +29,22 @@
 4. Click on <span class="rc-button">CREATE EXPOSITION</span> at the
    bottom of the profile page to create a new research exposition. A
    form will where you can choose your editor: 
-   * *text-based* - for blog-style articles or
+   * *text-based* - for blog-style articles with inline media
    * *graphical editor* - a poster-like format that allows for
      non-linear layouts
    
-   This guide will work with the *graphical editor* so choose that,
-   and click <span class="rc-button">SUBMIT</span>. For more info on
-   the text based editor, see the
-   [docs](https://guide.researchcatalogue.net/#text-based-editor).
+   This guide will work with the *graphical editor* so choose that.\
+   *To learn more about the text based editor, click
+   [here](https://guide.researchcatalogue.net/#text-based-editor).*
    
    You will also need to provide a title, copyright and
-   abstract. 
+   abstract. Don't worry too much about the abstract now, you can
+   change it later.
+   
+   When everything is filled in, click <span
+   class="rc-button">SUBMIT</span>. 
+   
+   
     
    
 
@@ -242,6 +247,8 @@
 24. Click LOGOUT to leave the RC. 
 
 Email [support@researchcatalogue.net](mailto:support@researchcatalogue.net) for RC User Support, or check out the [extended guide](guide.researchcatalogue.net) for a full documentation of RC functionality.
+	  
+
 	  
 </div>
 </div>
