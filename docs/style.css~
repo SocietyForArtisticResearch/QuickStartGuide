@@ -1,0 +1,60 @@
+   * {
+	 font-family: "PT Sans", Helvatica, Arial;
+	 font-size: 1.0rem;
+	 line-height: 2;
+	 }
+	 
+  p {
+    font-size 0.9rem;
+	}
+	 
+   h1, h2, h3 {
+      text-transform: uppercase;
+  }
+  
+  h1 {
+  font-size: 2em;
+  text-align: center;
+  }
+  
+  h2 {
+  font-size: 1.2em;
+  }
+  
+  h3 {
+  font-size: 1.0em;
+  }
+  
+  .bigger-text {
+    font-size:2em;
+}
+  
+  .container {
+  
+  }
+  
+  .inline-icon {
+  display: inline;
+  width: 1.5em;
+  height: 1.5em;
+  }
+  
+  .rc-button {
+  text-transform: uppercase;
+  box-model: border-box;
+  border: 1px solid black;
+  padding: 0.25em 1em;
+  margin: 0 0.25em;
+  color: gray;
+  }
+  
+  
+  
+  .body {
+  max-width: 800px;
+  margin: 0 auto;
+  }
+  
+  .center {
+  text-align: center;
+  }

@@ -1,5 +1,5 @@
 % Research Catalogue - Quick Start Guide
-% Casper Schipper ; Luc DBEREINERo ; 
+% Casper Schipper ; Luc Döbereiner ; 
 
 <div class="container">
 <div class="body">
