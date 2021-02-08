@@ -39,9 +39,7 @@
    
    You will also need to provide a title, copyright and
    abstract. Don't worry too much about the abstract now, you can
-   change it later.
-   
-   When everything is filled in, click <span
+   change it later. When everything is filled in, click <span
    class="rc-button">SUBMIT</span>. 
    
    
